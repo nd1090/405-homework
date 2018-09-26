@@ -186,7 +186,7 @@
   P.S. This is the best (and only resource you will need) to do everything below: https://developer.mozilla.org/en-US/docs/Glossary
 <h2>Reflection</h2>
   <p>My experience in our COMP405 class has been pretty good so far. The people seem freindly and the professor is really helpful. I don't mind html coding. I tried to learn html over the summer but lost motivation after a week or two.</p>
-  <p>I've noticed that many people in the class are clueless and inattentive. They talk most of the time then get upset when that missed some of yur instructions. It is understandable to have questions about what's going on, but I feel some people should try to prblem solve for themselves instead of interrupting class every minute. But really it isn't my place to judge. Anyway, I'm looking forward to the rest of the semester.</p>
+  <p>I've noticed that many people in the class are clueless and inattentive. They talk most of the time then get upset when that missed some of yur instructions. It is understandable to have questions about what's going on, but I feel some people should try to prblem solve for themselves instead of interrupting class every minute. But really it isn't my place to judge, I'm just glad the professor (being you, Prof. Shallow) is better than my mobile computing professor, Prof. Bloomberg. He was very confusing and not very tech savvy for a CS and CIS professor. Anyway, I'm looking forward to the rest of the semester.</p>
 
 </body>
 </html>
