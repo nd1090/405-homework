@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="HW4 page 1.css">
+</head>
+<body>
+  <div class="container">
+<nav>
+  <ul>
+    <li><a href="whoisnoor.asp">Who Is Noor?</a></li>
+    <li><a href="outfitoftheday.asp">Outfit Of The Day</a></li>
+    <li><a href="fashionadvice.asp">Fashion Advice</a></li>
+    <li><a href="ask.asp">Questions? Ask Away!</a></li>
+  </ul>
+</nav>
+
+<section>
+  <h1>A tribute to Noor</h1>
+  <p>Page one is "Who is Noor?"<p>
+  <p>Page two is his outift of the day</p>
+  <p>Page three is Noor's fashion advice</p>
+  <p>Page four is a page where you can ask me anything!</p>
+</section>
+
+<section>
+  <h1>Your main block content</h1>
+  <p> Write the paragraph under this section. The explanation here goes blaa blaa blaa blaa blaa.</p>
+
+  <article>
+  <header>
+    <h1>Article inside the main block (arcticle element </h1>
+    <p>sub section of the article</p>
+  </header>
+  <p>the whole explanation of the sub artcile in this section , blaa blaa blaa blaa blaaa</p>
+
+</article>
+<h2>Images of the video games</h2>
+<h4> Your first image name </h4>
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+<p> The section where I add more details about the image 1 in the page</p>
+
+<h4> Your second image name </h4>
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+<p> The section where I add more details about the image 2 in the page</p>
+
+<h4> Your third image name </h4>
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+<p> The section where I add more details about the image 3 in the page</p>
+
+
+<aside>
+  <h4>Contact us:</h4>
+  <p> Noor-Aldean Deek</p>
+
+</aside>
+
+<div class="footer">
+  <footer>
+    <p>Created by: Noor-Aldean Deek</p>
+    <p>Contact information: <a href="nd1090@wildcats.unh.edu">
+    nd1090@wildcats.unh.edu</a>.</p>
+  </footer>
+</div>
+</section>
+</div>
+</body>
+</html>
